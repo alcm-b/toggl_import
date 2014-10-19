@@ -1,0 +1,16 @@
+Project,client,Task,Description,tags,Duration,Start date,user,Start time,email
+tracks,internal,Admin,,harvest import,02:00:00,2010-09-21,Harvest User,08:00:00,nobody@example.com
+tracks,internal,Admin,,harvest import,03:00:00,2010-09-23,Harvest User,08:00:00,nobody@example.com
+tracks,internal,trackLoader,,harvest import,02:00:00,2010-09-24,Harvest User,08:00:00,nobody@example.com
+tracks,internal,bind,,harvest import,08:00:00,2010-10-19,Harvest User,08:00:00,nobody@example.com
+tracks,internal,bind,,harvest import,08:00:00,2010-10-20,Harvest User,08:00:00,nobody@example.com
+tracks,internal,bind,,harvest import,06:00:00,2010-10-21,Harvest User,08:00:00,nobody@example.com
+tracks,internal,restricted,,harvest import,04:00:00,2010-11-03,Harvest User,08:00:00,nobody@example.com
+tracks,internal,restricted,,harvest import,04:00:00,2010-11-04,Harvest User,08:00:00,nobody@example.com
+tracks,internal,restricted,,harvest import,06:00:00,2010-11-05,Harvest User,08:00:00,nobody@example.com
+tracks,internal,restricted,,harvest import,08:00:00,2010-11-06,Harvest User,08:00:00,nobody@example.com
+tracks,internal,restricted,,harvest import,08:00:00,2010-11-07,Harvest User,08:00:00,nobody@example.com
+tracks,internal,restricted,,harvest import,02:00:00,2010-11-08,Harvest User,08:00:00,nobody@example.com
+geoserver,internal,setup software on deb6,deployed geoserver war,harvest import,00:30:00,2012-07-24,Harvest User,08:00:00,nobody@example.com
+geoserver,internal,"choose, setup, run a demo","ui walkthrough
+-- geoserver data access by protocols like WFS.",harvest import,00:19:00,2012-07-25,Harvest User,08:00:00,nobody@example.com

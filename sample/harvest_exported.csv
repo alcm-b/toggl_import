@@ -1,0 +1,16 @@
+Date,Client,Project,Project Code,Task,Notes,Hours,Billable?,Invoiced?,First Name,Last Name,Department,Employee?,Hourly Rate,Billable Amount,Currency
+2010-09-21,internal,tracks,TRK,Admin,,2.0,No,No,Harvest,User,,Yes,0.0,0.0,United States Dollars - USD
+2010-09-23,internal,tracks,TRK,Admin,,3.0,No,No,Harvest,User,,Yes,0.0,0.0,United States Dollars - USD
+2010-09-24,internal,tracks,TRK,trackLoader,,2.0,No,No,Harvest,User,,Yes,0.0,0.0,United States Dollars - USD
+2010-10-19,internal,tracks,TRK,bind,,8.0,No,No,Harvest,User,,Yes,0.0,0.0,United States Dollars - USD
+2010-10-20,internal,tracks,TRK,bind,,8.0,No,No,Harvest,User,,Yes,0.0,0.0,United States Dollars - USD
+2010-10-21,internal,tracks,TRK,bind,,6.0,No,No,Harvest,User,,Yes,0.0,0.0,United States Dollars - USD
+2010-11-03,internal,tracks,TRK,restricted,,4.0,No,No,Harvest,User,,Yes,0.0,0.0,United States Dollars - USD
+2010-11-04,internal,tracks,TRK,restricted,,4.0,No,No,Harvest,User,,Yes,0.0,0.0,United States Dollars - USD
+2010-11-05,internal,tracks,TRK,restricted,,6.0,No,No,Harvest,User,,Yes,0.0,0.0,United States Dollars - USD
+2010-11-06,internal,tracks,TRK,restricted,,8.0,No,No,Harvest,User,,Yes,0.0,0.0,United States Dollars - USD
+2010-11-07,internal,tracks,TRK,restricted,,8.0,No,No,Harvest,User,,Yes,0.0,0.0,United States Dollars - USD
+2010-11-08,internal,tracks,TRK,restricted,,2.0,No,No,Harvest,User,,Yes,0.0,0.0,United States Dollars - USD
+2012-07-24,internal,geoserver,"",setup software on deb6,deployed geoserver war,0.5,No,No,Harvest,User,,Yes,0.0,0.0,United States Dollars - USD
+2012-07-25,internal,geoserver,"","choose, setup, run a demo","ui walkthrough
+-- geoserver data access by protocols like WFS.",0.33,No,No,Harvest,User,,Yes,0.0,0.0,United States Dollars - USD
